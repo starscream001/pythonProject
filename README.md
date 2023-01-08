@@ -8,4 +8,5 @@ For MacOS
 5. echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init -)"\nfi'
 6. pip install selenium
 7. pip install pytest
-8. Clone this repo
+8. Install PyCharm <https://www.jetbrains.com/ru-ru/pycharm/download/#section=mac>
+9. Clone this repo
